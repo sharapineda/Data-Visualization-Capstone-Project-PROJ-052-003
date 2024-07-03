@@ -6,3 +6,5 @@ This repository includes three essential files:
 PowerBI File [link]: The main visualization file showcasing the insights derived from the dataset.
 Design Document [link]: A comprehensive guide detailing the design and development process of the project.
 User Orientation Document [link]: Instructions and guidelines for users to navigate and interpret the dashboard effectively.
+
+For inquiries, discussions, or further engagement, please feel free to connect via [LinkedIn](https://www.linkedin.com/in/shara-vanessa-pineda/).
