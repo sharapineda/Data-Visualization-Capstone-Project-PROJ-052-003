@@ -4,7 +4,7 @@ This Capstone Project for the Data Science course PROJ-052-003 aims to consolida
 
 This repository includes three essential files:
   
-1. PowerBI File [link]: The main visualization file showcasing the insights derived from the dataset.
+1. PowerBI Dashboard saved as PDF [link]: The main visualization file showcasing the insights derived from the dataset.
   
 2. Design Document [link]: A comprehensive guide detailing the design and development process of the project.
   
